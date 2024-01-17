@@ -19,3 +19,5 @@ It just a simple web site college information placement,Sport,campuse details et
 ![Screenshot 2024-01-17 232527](https://github.com/vinayrenuke/My-First-Simple-College-Web-Site/assets/156569065/5c296de2-4d18-406b-88da-95893647a810)
 
 ![Screenshot 2024-01-17 232553](https://github.com/vinayrenuke/My-First-Simple-College-Web-Site/assets/156569065/5b7446db-d1dd-4aed-8588-dc11c89e129d)
+
+output: https://vinayrenuke.github.io/Smart-City-Project/
